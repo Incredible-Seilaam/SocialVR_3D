@@ -6,4 +6,9 @@ public class PlayerCollision : MonoBehaviour
     {
         Debug.Log("Collided with: " + collision.gameObject.name);
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Trigger entered with: " + other.gameObject.name);
+    }
 }
