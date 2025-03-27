@@ -12,7 +12,7 @@ Projekt je realizován ve spolupráci mezi Fakultou sociálně ekonomických stu
 
 ## Jak stáhnout projekt
 
-Hru si můžete vyzkoušet jako [WEBGL build](https://play.unity.com/en/games/cbe00391-94ac-44d9-8720-fe718ea7815e/webgl-builds).
+Hru si můžete vyzkoušet jako [WEBGL build](https://play.unity.com/en/games/cbe00391-94ac-44d9-8720-fe718ea7815e/social-vr-3d).
 
 ### Kroky ke stažení projektu:
 
