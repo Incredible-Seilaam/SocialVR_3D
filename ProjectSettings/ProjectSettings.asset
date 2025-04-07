@@ -754,11 +754,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d40a3295-290e-4b5e-87e0-1e3bbb9ce990
+  cloudProjectId: b2a82b24-5cc9-473e-8848-26ce0f516009
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: SocialVR_3D
-  organizationId: seilaam
+  organizationId: svr_ujep
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
