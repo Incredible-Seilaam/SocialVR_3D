@@ -1,0 +1,4 @@
+repository "SocialVR_3D 2025-04-08_23-28-47/SocialVR_3D@1375800777879@cloud"
+  path "/"
+    br "/main"
+    co "/main"
